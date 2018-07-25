@@ -1,0 +1,9 @@
+/target/
+.settings
+.project
+.classpath
+mqtt-example.log
+mqtt-example.2017-08-01-09.log
+smarthome-command.log
+logs
+bin
